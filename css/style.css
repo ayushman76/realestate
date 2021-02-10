@@ -9,7 +9,10 @@ body {
     font-family: 'Playfair Display', serif!important;
     font-family: 'Raleway', sans-serif!important;
 }
+h1,he,he,h4,h5,h6{
 
+font-size: 32px!important;
+}
 header {
     background: rgb(113 125 173);
 }
