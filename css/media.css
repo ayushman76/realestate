@@ -9,8 +9,8 @@
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
     }
-    .banner>img {
-        height: auto!important;
+    .item>img {
+        height:200px!important;
         width: 100%;
     }
     .col-md-3 {
